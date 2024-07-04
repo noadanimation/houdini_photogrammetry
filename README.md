@@ -1,5 +1,8 @@
 # Houdini Photogrammetry
-HDAs for processing photogrammetry scans in Houdini
+HDAs for processing photogrammetry scans in Houdini.
+
+## Installation
+Copy the HDAs into your Houdini install's 'otls' directory.
 
 ## Photogrammetry align pair
 For scans taken in two halves, this SOP node helps align those halves. It provides an interface to manually match features between the scan halves by adding matching points to each.
